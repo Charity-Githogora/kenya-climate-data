@@ -95,7 +95,7 @@ Contributions, suggestions, and collaborations are welcome to improve the datase
 ## 📌 Author
 
 **Charity Githogora**
-Data Analyst | Machine Learning Enthusiast
+Data Analyst | Machine Learning Engineer
 
 ---
 
